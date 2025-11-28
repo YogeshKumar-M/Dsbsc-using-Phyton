@@ -54,6 +54,7 @@ plt.plot(t, s)
 
 # Calculations:
 
+![WhatsApp Image 2025-11-28 at 08 11 26_358adcba](https://github.com/user-attachments/assets/36bf5373-1da4-4992-a5a0-c73ae323a80b)
 
 
 # Result:
